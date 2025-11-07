@@ -1,4 +1,4 @@
-# Simple Chatbot
+# Stateless Chatbot
 
 A basic chatbot implementation using LangChain and OpenAI-compatible APIs that demonstrates stateless conversation capabilities.
 
