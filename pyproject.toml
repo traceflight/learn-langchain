@@ -9,5 +9,5 @@ dependencies = []
 [tool.uv.workspace]
 members = [
     "scenarios/chatbot/stateless-chatbot",
-    "scenarios/chatbot/normal-chatbot",
+    "scenarios/chatbot/simple-chatbot",
 ]
