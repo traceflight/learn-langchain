@@ -1,7 +1,7 @@
 [project]
 name = "stateless-chatbot"
 version = "0.1.0"
-description = "Stateless chatbot by langchain"
+description = "Stateless chatbot created by langchain"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
